@@ -22,7 +22,7 @@ Allthrough here is a small example from within the IDE about the most important 
 
 - C) Code Metrics.
 
-Here is a picture of the Complexity. My IDE doesn't have any way to have a good way of presenting Code Metrics unless you buy enterprise edition, which i am not willing to do :) But this is what i got.
+Here is a picture of the Complexity. My IDE doesn't have any way to have a good way of presenting Code Metrics unless you buy enterprise edition, which i am not willing to do :) But i found a third-party plugin, so this is what i got.
 [![https://gyazo.com/935b03603f0527c21c90fac4fd8cd220](https://i.gyazo.com/935b03603f0527c21c90fac4fd8cd220.png)](https://gyazo.com/935b03603f0527c21c90fac4fd8cd220)
 
 
