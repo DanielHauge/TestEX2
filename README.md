@@ -91,3 +91,10 @@ The actual lines in my opinion should depend on Screensize and IDE used. A good 
 
 
 ## 6. Highlights from lecture
+One of the things that i thought was very essential and made me think was. That testers still exists, but it is apart of scrum and scrum is not just a team of frotnend and backend developers. But a crosstalented team that should be able to do all tasks within software development. This it is essential to learn to test, because the future demands testing from software developers. 
+
+
+Another thing was that it is quite possible to find defect earlier in the process, never realy occured to me, that by pressing on and holding regular review mettings on the actual system requirements with the product owner is a way to actully root out so many defects early on. And by discovering the bugs this early will be very cheap compared to discovering them later. The example from what gitte told, was that maybe it costs 10 kr,- to fix the requirement analysis paper, but then it costs 100 to fix the bug found during development, but it might cost 1000 kr,- to fix when it is being found right before launch maybe because many things need to change before the bug is fixed. And it might even costs lives if defect not found before shipping. So thinking about discovering defect early is a major thing to think about.
+
+
+One more thing that i think was essential from the lecture, was that people rather want 1 feature that works pretty good and smooth every time, than alot of features that don't work so well, only some of the times. That it is best to focus on the non-functional issues, because those are the ones we tend to miss or get wrong. 
