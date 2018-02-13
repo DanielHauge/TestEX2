@@ -30,6 +30,9 @@ It is clearly the strict CC2 variation. It can be seen in the calculate Triangle
 - E) Refreactoring of Code.
 I fixed all Code smells and refractored the Calculate Triangle Type function.
 
+After refractoring. It got down to total of 9 issues which i personaly see as allmost impossible to get rid of. And are quite weird issues. And all functions with a complexity below 5
+[![https://gyazo.com/a0a3b7bc83b271da688e0644e0e1e12b](https://i.gyazo.com/a0a3b7bc83b271da688e0644e0e1e12b.png)](https://gyazo.com/a0a3b7bc83b271da688e0644e0e1e12b)
+
 - F) Tests cases
 
 
