@@ -1,0 +1,44 @@
+Solution TriangleProjectTest.sln
+    Project TriangleTest
+      TriangleTest\Program.cs:5 Inconsistent modifiers style: missing 'internal' modifier
+      TriangleTest\Program.cs:7 Inconsistent modifiers style: missing 'private' modifier
+      TriangleTest\Program.cs:7 Parameter 'args' is never used
+      TriangleTest\Program.cs:10 Use 'var' (simple types)
+      TriangleTest\Triangle.cs:2 Using directive is not required by the code and can be safely removed
+      TriangleTest\Triangle.cs:3 Using directive is not required by the code and can be safely removed
+      TriangleTest\Triangle.cs:9 Name 'sides' does not match rule 'Methods, properties and events'. Suggested name is 'Sides'.
+      TriangleTest\Triangle.cs:15 Inconsistent body style: use expression body
+      TriangleTest\Triangle.cs:15 Qualifier 'this.' is redundant
+      TriangleTest\Triangle.cs:19 Qualifier 'this.' is redundant
+      TriangleTest\Triangle.cs:22 Cannot resolve symbol 'original'
+      TriangleTest\Triangle.cs:30 Use 'var' (elsewhere)
+      TriangleTest\Triangle.cs:30 Redundant array creation expression
+      TriangleTest\Triangle.cs:32 Qualifier 'this.' is redundant
+      TriangleTest\Triangle.cs:37 Qualifier 'this.' is redundant
+      TriangleTest\Triangle.cs:39 Parameter can be of type 'System.Collections.Generic.IReadOnlyList<int>'
+      TriangleTest\Triangle.cs:41 Use 'var' (elsewhere)
+      TriangleTest\Triangle.cs:41 Redundant array creation expression
+      TriangleTest\Triangle.cs:43 Qualifier 'this.' is redundant
+      TriangleTest\Triangle.cs:46 Method 'AmIATriangle' can be made static
+      TriangleTest\Triangle.cs:46 Parameter can be of type 'System.Collections.Generic.IReadOnlyList<double>'
+      TriangleTest\Triangle.cs:48 Convert to 'return' statement
+      TriangleTest\Triangle.cs:52 Redundant 'else' keyword
+      TriangleTest\Triangle.cs:69 Redundant 'else' keyword
+      TriangleTest\Triangle.cs:69 Equality comparison of floating point numbers. Possible loss of precision while rounding values
+      TriangleTest\Triangle.cs:69 Equality comparison of floating point numbers. Possible loss of precision while rounding values
+      TriangleTest\Triangle.cs:73 Redundant 'else' keyword
+      TriangleTest\Triangle.cs:73 Equality comparison of floating point numbers. Possible loss of precision while rounding values
+      TriangleTest\Triangle.cs:73 Equality comparison of floating point numbers. Possible loss of precision while rounding values
+      TriangleTest\Triangle.cs:73 Equality comparison of floating point numbers. Possible loss of precision while rounding values
+      TriangleTest\Triangle.cs:77 Redundant 'else' keyword
+      TriangleTest\Triangle.cs:84 Use 'var' (elsewhere)
+      TriangleTest\Triangle.cs:85 Redundant parentheses
+      TriangleTest\Triangle.cs:85 Redundant parentheses
+      TriangleTest\Triangle.cs:85 Redundant parentheses
+      TriangleTest\Triangle.cs:90 Redundant parentheses
+      TriangleTest\Triangle.cs:90 Redundant parentheses
+      TriangleTest\Triangle.cs:90 Redundant parentheses
+      TriangleTest\Triangle.cs:100 Use 'var' (built-in types)
+      TriangleTest\Triangle.cs:104 Redundant 'Object.ToString()' call for value type
+    
+  
