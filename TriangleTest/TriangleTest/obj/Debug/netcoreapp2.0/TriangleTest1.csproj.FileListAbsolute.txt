@@ -1,0 +1,11 @@
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\bin\Debug\netcoreapp2.0\TriangleTest1.deps.json
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\bin\Debug\netcoreapp2.0\TriangleTest1.runtimeconfig.json
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\bin\Debug\netcoreapp2.0\TriangleTest1.runtimeconfig.dev.json
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\bin\Debug\netcoreapp2.0\TriangleTest1.dll
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\bin\Debug\netcoreapp2.0\TriangleTest1.pdb
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.csprojResolveAssemblyReference.cache
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.csproj.CoreCompileInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.AssemblyInfoInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.AssemblyInfo.cs
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.dll
+C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest1.pdb
