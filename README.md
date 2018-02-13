@@ -13,9 +13,21 @@ The moddle quiz has been submitted on moddle.
 - A) Install Metrics software in your IDE.
 I've installed ReSharper and Code Metrics in visual studio. (Note however, that Code metrics as a built in function is only availabe in enterprise edition.
 
--B) Coding standards
-Here is a long list of Violations of coding standards i've commited in the program. [Code Smells](CodeSmells.txt)
+- B) Coding standards.
+Here is a long list of all Violations of coding standards i've commited in the program according to standard resharper protocol. [Code Smells](CodeSmells.txt)
 
+Allthrough here is a small example from within the IDE about the most important ones which it found 16 of.
+
+
+- C) Code Metrics.
+Here is a picture of the Complexity. My IDE doesn't have any way to have a good way of presenting Code Metrics unless you buy enterprise edition, which i am not willing to do :) But this is what i got.
+
+- D) CC metrics variation.
+It is clearly the strict CC2 variation. It can be seen in the calculate TriangleType. It is counting all the operators aswell.
+
+- E) Refreactoring of Code.
+
+- F) Tests cases
 
 
 
