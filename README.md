@@ -68,7 +68,7 @@ Another way, would be to standardize the test more. Instead of having a pirvate 
 ```java
 @Test
 public void addintAnAdultShouldSucceed() {
-  underTest = new Catalog();
+  underTest = new Catalog();        <<<<<<-------
   asserEquals(0, underTest.getNrOfPeople());
   Person p = new person(1985);
   underTest.addPerson(p);
