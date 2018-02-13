@@ -17,15 +17,18 @@ I've installed ReSharper and Code Metrics in visual studio. (Note however, that 
 Here is a long list of all Violations of coding standards i've commited in the program according to standard resharper protocol. [Code Smells](CodeSmells.txt)
 
 Allthrough here is a small example from within the IDE about the most important ones which it found 16 of.
-
+[![https://gyazo.com/6e77ccdaf438fddfe6ef3cc5649cccac](https://i.gyazo.com/6e77ccdaf438fddfe6ef3cc5649cccac.png)](https://gyazo.com/6e77ccdaf438fddfe6ef3cc5649cccac)
 
 - C) Code Metrics.
 Here is a picture of the Complexity. My IDE doesn't have any way to have a good way of presenting Code Metrics unless you buy enterprise edition, which i am not willing to do :) But this is what i got.
+[![https://gyazo.com/935b03603f0527c21c90fac4fd8cd220](https://i.gyazo.com/935b03603f0527c21c90fac4fd8cd220.png)](https://gyazo.com/935b03603f0527c21c90fac4fd8cd220)
+
 
 - D) CC metrics variation.
 It is clearly the strict CC2 variation. It can be seen in the calculate TriangleType. It is counting all the operators aswell.
 
 - E) Refreactoring of Code.
+I fixed all Code smells and refractored the Calculate Triangle Type function.
 
 - F) Tests cases
 
