@@ -91,6 +91,8 @@ The actual lines in my opinion should depend on Screensize and IDE used. A good 
 
 
 ## 6. Highlights from lecture
+It is hard for me to pick the most essential things, because they were in my opinion some very appealing things to consider when thinking about testing, and also revewing, and working as a software developer in scrum. I'm not sure if i think they are the most essential things, but it is atleast the things i think was most starteling things to learn.
+
 One of the things that i thought was very essential and made me think was. That testers still exists, but it is apart of scrum and scrum is not just a team of frotnend and backend developers. But a crosstalented team that should be able to do all tasks within software development. This it is essential to learn to test, because the future demands testing from software developers. 
 
 
