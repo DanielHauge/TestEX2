@@ -42,6 +42,7 @@ After refractoring. It got down to total of 9 issues which i personaly see as al
 
 
 ## 3. Peer Review Checklist
+The checklist compiles tips and bests practises when it comes to code reviewing. It is guidelines to follow to obtain most out of code reviewing. But also guidelines that will make reviewing effective and bring more value & money for the effort. An example would be to be slow and thorough with no more than 200 to 400 lines of code in one sitting. This will make the reviewing thorough and more likely to detect defects. One of the biggest take-aways in my opinion is to find the defects before launch, if critical/major defects are shipped for launch that is where all the horrible things can go wrong, and also the costlyness of fixing a bug after production is huge. #10 seels very usefull. By doing a little bit of code review each day, you not only strenghen reviewing. But also make developers more conscientious of their code and how they write because they know their code will probably be reviewed that same day.
 
 ## 4. Code Review
 
