@@ -6,15 +6,23 @@ This exercise goal is to do 6 tasks involving doing some static code analysis of
 
 The result is this repositories testcase code and the below documentation. 
 
-## Moddle Quiz
+## 1. Moddle Quiz
 The moddle quiz has been submitted on moddle.
 
-## Static Code Analysis of Trinagle program
+## 2. Static Code Analysis of Trinagle program
+- A) Install Metrics software in your IDE.
+I've installed ReSharper and Code Metrics in visual studio. (Note however, that Code metrics as a built in function is only availabe in enterprise edition.
 
-## Peer Review Checklist
+-B) Coding standards
+Here is a long list of Violations of coding standards i've commited in the program. [Code Smells](CodeSmells.txt)
 
-## Code Review
 
-## Coding standards
 
-## Highlights from lecture
+
+## 3. Peer Review Checklist
+
+## 4. Code Review
+
+## 5. Coding standards
+
+## 6. Highlights from lecture
