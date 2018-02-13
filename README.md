@@ -45,6 +45,27 @@ After refractoring. It got down to total of 9 issues which i personaly see as al
 The checklist compiles tips and bests practises when it comes to code reviewing. It is guidelines to follow to obtain most out of code reviewing. But also guidelines that will make reviewing effective and bring more value & money for the effort. An example would be to be slow and thorough with no more than 200 to 400 lines of code in one sitting. This will make the reviewing thorough and more likely to detect defects. One of the biggest take-aways in my opinion is to find the defects before launch, if critical/major defects are shipped for launch that is where all the horrible things can go wrong, and also the costlyness of fixing a bug after production is huge. #10 seels very usefull. By doing a little bit of code review each day, you not only strenghen reviewing. But also make developers more conscientious of their code and how they write because they know their code will probably be reviewed that same day.
 
 ## 4. Code Review
+I'm not a big javawizz. So this is purely guesswork.
+
+It looks like, it still adds the person to the list even tho it throws the exception. If i take my expience in golang and C#, you are still able to produce exceptions and continue in the code, and choose how you will handle the exceptions. In this example, if you add a minor to the personslist, it will throw an exception because the difference of subtracting a minors birthyear to the current year will produce results below 18. But it will still go and add the person to the list. This means the first test to add minor will go through fine. The first assertion of there being nobody in the list from the start is true. Then it makes a new person which is a minor and then adds to t he list, and as expected it gets an exception. But my suspicion is that the "underTest" is still the same catalog being used in the tests. The first test was fine, but the minor is in the list now. When the addingAdult starts, it asserts that there should be nobody in the list. But there is! The minor got added dispite the exception thrown.
+
+This is purely guesswork. :D
+
+If this is the issue, there is a few ways to solve it.
+
+First way, would be to add "else" after the if (Calender.getInstance()............<18) statement. So 
+```java
+throw new IlegalArgumentException("only adults admitted.");
+} 
+else 
+{
+people.add(person)
+}
+```
+
+Another way, would be to standardize the test more. Instead of having a pirvate final catalog object that is being used for all tests. Make a new catalog object for every test. If more things needs to be prepared before tests can begin, i would recommend making a method/function to prepare everything before hand ea. If the tests needed an object ea. Catalog object. I would make a SetupTest() method which would return a fresh new catalog object in the right condition fit for testing. This way can be extended to all things. Maybe you would have some static objects/servers. Then a ResetAndPrepareForTest() method wouldn't be a bad idea to throw in before tests begin, so previus tests doesn't screwer the results of the new ones. Unless it is on purpose ofcause. 
+
+And that is maybe the final solution. To take previus tests into consideration. To not assert 0, but 1. Because it might be meant for the minor to be added allthrough with an exception.
 
 ## 5. Coding standards
 For me, coding convetions/standards change depending on IDE, screensize and language used. 
