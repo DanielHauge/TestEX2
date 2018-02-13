@@ -47,5 +47,44 @@ The checklist compiles tips and bests practises when it comes to code reviewing.
 ## 4. Code Review
 
 ## 5. Coding standards
+For me, it depends alot on which language that is being used. I don't find most naming conventions very handy and usefull, unless it's very bad. But stricly following rules for putting underscore before private static variables, or allways use camelcase in surden situations, i'm not realy a fan of that. 
+
+- Comment Conventions
+All comments needs to not attract attention away from the actual code, and should be above the actual method, but no comments inside method. Unless explanatory method.
+
+- Indentation style
+All curly brackets most be vertically alligned or opened and closed on the same line. This grants good overview and removes confusingness.
+
+But i find Indentation style **VERY** Important for a team, to increase visibility and readability. But it should differ alot for which language is being used.
+
+I personaly like GNU
+```
+while (x == y)
+  {
+    something();
+    somethingelse();
+  }
+```
+or Allman
+```
+while (x == y)
+{
+    something();
+    somethingelse();
+}
+```
+I Dislike something like Pico indentation style
+```
+while (x == y)
+{   something();
+    somethingelse(); }
+```
+
+- Function/Method Length.
+I find restricting or limiting lines of code for functions and methods are important. Especially for teams. Maybe you know what a 500 lines of code function does because you made it, but someone might need to figure out what it does and need to read a complicated 500 line function through, which gets very complicated.
+
+The actual lines in my opinion should depend on Screensize and IDE used. A good rule of thumb, a method/fucntion should only take up 3/4 of the height of the screen. Or about what fits a screen in the IDE. In visual studio with zoom 100%. it is about 72 lines of code.
+
+
 
 ## 6. Highlights from lecture
