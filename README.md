@@ -63,9 +63,27 @@ people.add(person)
 }
 ```
 
-Another way, would be to standardize the test more. Instead of having a pirvate final catalog object that is being used for all tests. Make a new catalog object for every test. If more things needs to be prepared before tests can begin, i would recommend making a method/function to prepare everything before hand ea. If the tests needed an object ea. Catalog object. I would make a SetupTest() method which would return a fresh new catalog object in the right condition fit for testing. This way can be extended to all things. Maybe you would have some static objects/servers. Then a ResetAndPrepareForTest() method wouldn't be a bad idea to throw in before tests begin, so previus tests doesn't screwer the results of the new ones. Unless it is on purpose ofcause. 
+Another way, would be to standardize the test more. Instead of having a pirvate final catalog object that is being used for all tests. Make a new catalog object for every test. If more things needs to be prepared before tests can begin. 
+
+```java
+@Test
+public void addintAnAdultShouldSucceed() {
+  underTest = new Catalog();
+  asserEquals(0, underTest.getNrOfPeople());
+  Person p = new person(1985);
+  underTest.addPerson(p);
+  asserEquals(1, underTest.getNrOfPeople());
+}
+```
+Or maybe just use a complete new object every test.
+
+I would recommend making a method/function to prepare everything before hand ea. If the tests needed an object ea. Catalog object. I would make a SetupTest() method which would return a fresh new catalog object in the right condition fit for testing. This way can be extended to all things. Maybe you would have some static objects/servers. Then a ResetAndPrepareForTest() method wouldn't be a bad idea to throw in before tests begin, so previus tests doesn't screwer the results of the new ones. Unless it is on purpose ofcause. 
 
 And that is maybe the final solution. To take previus tests into consideration. To not assert 0, but 1. Because it might be meant for the minor to be added allthrough with an exception.
+
+```java
+asserEquals(1, underTest.getNrOfPeople());
+```
 
 ## 5. Coding standards
 For me, coding convetions/standards change depending on IDE, screensize and language used. 
