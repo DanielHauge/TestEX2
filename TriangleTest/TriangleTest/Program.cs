@@ -2,12 +2,12 @@
 
 namespace TriangleTest
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
 
-            Triangle t = new Triangle(5, 5, 5);
+            var t = new Triangle(5, 5, 5);
             Console.WriteLine(t.InfoString());
 
             Console.ReadLine();

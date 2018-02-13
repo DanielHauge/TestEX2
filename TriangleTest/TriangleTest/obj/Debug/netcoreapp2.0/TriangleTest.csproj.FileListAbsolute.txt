@@ -9,3 +9,13 @@ C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\n
 C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest.AssemblyInfo.cs
 C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest.dll
 C:\Users\Animc\Desktop\Repos\TestEX1-DFH\TriangleTest1\TriangleTest1\obj\Debug\netcoreapp2.0\TriangleTest.pdb
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\bin\Debug\netcoreapp2.0\TriangleTest.deps.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\bin\Debug\netcoreapp2.0\TriangleTest.runtimeconfig.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\bin\Debug\netcoreapp2.0\TriangleTest.runtimeconfig.dev.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\bin\Debug\netcoreapp2.0\TriangleTest.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\bin\Debug\netcoreapp2.0\TriangleTest.pdb
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\obj\Debug\netcoreapp2.0\TriangleTest.csproj.CoreCompileInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\obj\Debug\netcoreapp2.0\TriangleTest.AssemblyInfoInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\obj\Debug\netcoreapp2.0\TriangleTest.AssemblyInfo.cs
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\obj\Debug\netcoreapp2.0\TriangleTest.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTest\obj\Debug\netcoreapp2.0\TriangleTest.pdb
