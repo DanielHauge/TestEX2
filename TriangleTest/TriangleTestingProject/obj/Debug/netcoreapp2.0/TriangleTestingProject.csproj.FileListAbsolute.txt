@@ -1,0 +1,16 @@
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTestingProject.deps.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTestingProject.runtimeconfig.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTestingProject.runtimeconfig.dev.json
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTestingProject.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTestingProject.pdb
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTest.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\bin\Debug\netcoreapp2.0\TriangleTest.pdb
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.csprojResolveAssemblyReference.cache
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.csproj.CoreCompileInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.AssemblyInfoInputs.cache
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.AssemblyInfo.cs
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.dll
+C:\Users\Animc\Desktop\Repos\TestEX2-DFH\TriangleTest\TriangleTestingProject\obj\Debug\netcoreapp2.0\TriangleTestingProject.pdb

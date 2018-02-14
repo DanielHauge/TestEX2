@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleTest", "TriangleTest\TriangleTest.csproj", "{9252CE54-34BE-49D3-BA6D-7796619FEE31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTestingProject", "TriangleTestingProject\TriangleTestingProject.csproj", "{8D63E340-1810-4B03-8662-3BD3CE7B8414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleTestingProject", "TriangleTestingProject\TriangleTestingProject.csproj", "{8D63E340-1810-4B03-8662-3BD3CE7B8414}"
 EndProject
 Global
 	GlobalSection(Performance) = preSolution
@@ -30,6 +30,9 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2CA84BCF-68DB-4520-BE36-2996329FAA06}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true

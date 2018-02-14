@@ -18,7 +18,6 @@ namespace TriangleTest
                 if (!AmITriangle())
                 {
                     throw new ArgumentException("Hey!!!, invalid sides for a triangle. Cannot make up a triangle!");
-
                 }
             }
         }
@@ -40,20 +39,20 @@ namespace TriangleTest
             Sides = array;
 
         }
-        private bool AmITriangle()
+        public bool AmITriangle()
         {
-            var s = Sides;
-            return s[0] + s[1] > s[2] && s[0] + s[2] > s[1] && s[1] + s[2] > s[0];
+            var s = sides;
+            return s[0] + s[1] > s[2] && s[0] + s[2] > s[1] && s[1] + s[2] > s[0] && s[0] > 0 && s[1] > 0 && s[2]>0;
         }
         public double Area()
         {
             var temp = (sides[0] + sides[1] + sides[2]) / 2;
-            return Math.Sqrt(temp * (temp - sides[0]) * (temp - sides[1]) * (temp - sides[2]));
+            return Math.Round(Math.Sqrt(temp * (temp - sides[0]) * (temp - sides[1]) * (temp - sides[2])), 2);
         }
         public TriangleType CalculateTriangleType()
         {
 
-            if (AmITriangle())
+            if (!AmITriangle())
             {
                 return TriangleType.Error;
             }
