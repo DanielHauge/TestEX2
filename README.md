@@ -39,7 +39,7 @@ After refractoring. It got down to total of 9 issues which i personaly see as al
 
 - F) Tests cases.
 
-Tests can be found here: [Link](https://github.com/Games-of-Threads/TestEX1-DFH). But it has gained some more tests and updates since last time. The xUnitTests written in C# can be found here: [UnitTest1.cs](here) 
+Tests can be found here: [Link](https://github.com/Games-of-Threads/TestEX1-DFH). But it has gained some more tests and updates since last time. The xUnitTests written in C# can be found here: [UnitTest1.cs](https://github.com/Games-of-Threads/TestEX2-DFH/blob/master/TriangleTest/TriangleTestingProject/UnitTest1.cs) 
 
 ##### First run of tests
 [![https://gyazo.com/d0ecbfbb3052af7c74cc828242623a23](https://i.gyazo.com/d0ecbfbb3052af7c74cc828242623a23.png)](https://gyazo.com/d0ecbfbb3052af7c74cc828242623a23)
