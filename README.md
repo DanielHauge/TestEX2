@@ -9,7 +9,7 @@ The result is this repositories testcase code and the below documentation.
 ## 1. Moddle Quiz
 The moddle quiz has or will be submitted on moddle.
 
-## 2. Static Code Analysis of Trinagle program
+## 2. Static Code Analysis of Triangle program
 - A) Install Metrics software in your IDE.
 I've installed ReSharper and Code Metrics in visual studio. (Note however, that Code metrics as a built in function is only availabe in enterprise edition.
 
