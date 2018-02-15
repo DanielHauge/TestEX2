@@ -7,7 +7,7 @@ This exercise goal is to do 6 tasks involving doing some static code analysis of
 The result is this repositories testcase code and the below documentation. 
 
 ## 1. Moddle Quiz
-The moddle quiz has been submitted on moddle.
+The moddle quiz has or will be submitted on moddle.
 
 ## 2. Static Code Analysis of Trinagle program
 - A) Install Metrics software in your IDE.
